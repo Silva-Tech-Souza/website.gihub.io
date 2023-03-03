@@ -1,2 +1,0 @@
-# IBRECS.github.io
-tecnologia
